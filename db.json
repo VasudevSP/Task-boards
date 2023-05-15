@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Taskadd": [
+    {
+      "Name": "",
+      "email": "",
+      "taskdetails": "",
+      "deadline": "",
+      "status": "",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "pr": [
+    {}
+  ]
+}
